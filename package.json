@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/yyhinc.lwc-kqsjxoc7",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve 49mBoP0GpPibZjo52jEP --open"
+  }
+}
